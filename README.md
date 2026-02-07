@@ -41,6 +41,73 @@ Installing a theme is pretty simple. All you have to do is copy the theme file t
     ```bash
     echo "colorscheme dracula" >> ~/.config/cmus/rc
     ```
+## Themes
+Note : themes may vary depending on your terminal theme
+### Cyan
+![cyan](./imgs/cyan.png)
+
+### Default
+![default](./imgs/default.png)
+
+### Dracula
+![dracula](./imgs/dracula.png)
+
+### Gray 88
+![gray-88](./imgs/gray-88.png)
+
+### Green
+![green](./imgs/green.png)
+
+### Green mono 88
+![green-mono-88](./imgs/green-mono-88.png)
+
+### Groove grove
+![groove_grove](./imgs/groove_grove.png)
+
+### Gruvbox
+![gruvbox](./imgs/gruvbox.png)
+
+### Gruvbox alt
+![gruvbox-alt](./imgs/gruvbox-alt.png)
+
+### Gruvbox night
+![gruvbox-night](./imgs/gruvbox-night.png)
+
+### Gruvbox redux
+![gruvbox_redux](./imgs/gruvbox_redux.png)
+
+### Illyria dark
+![illyria-dark](./imgs/illyria-dark.png)
+
+### Illyria light
+![illyria-light](./imgs/illyria-light.png)
+
+### Jellybeans
+![jellybeans](./imgs/jellybeans.png)
+
+### Night
+![night](./imgs/night.png)
+
+### Onedark
+Themes gives an error on loading.
+
+### Solarized dark
+![solarized-dark](./imgs/solarized-dark.png)
+
+### Solarized light
+![solarized-ligt](./imgs/solarized-light.png)
+
+### Srcery
+![srcery](./imgs/srcery.png)
+
+### Tokyo night
+![tokyo-night](./imgs/tokyo-night.png)
+
+### Xterm white
+![xterm-white](./imgs/xterm-white.png)
+
+### Zenburn
+![zenburn](./imgs/zenburn.png)
 
 ## Licence
 
